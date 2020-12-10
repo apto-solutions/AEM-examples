@@ -1,2 +1,2 @@
-# test-repo
-test repo to invite test users
+# AEM-examples
+Simple Repository to Demo code snippets
